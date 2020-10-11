@@ -8,3 +8,5 @@ console.log('Data.exe Has Started!')
   client.user.setActivity('Bot Zone ', { type: "PLAYING"})
 
 })
+
+client.login("NzMzNDExOTM1ODk4NTY2NjY2.XxCxFw.Xg8KefEC6Kk9fkhQcZwfx7SP__Y")
