@@ -13,6 +13,6 @@ server by going to top.gg and searching up (for bots) Data.exe. Just make sure
 you dont spam commands so you wont mess the bot up! 
 
 # Were is the website?
-Right here! click the Link thats right thier /| https://data-exe-website-commands-page.glitch.me/ |\
+Right here! click the Link thats right thier /| https://data-exe-website-commands-page.glitch.me/ |\\
 Go thier to see variecy of commands and pages if you need help click the help button! thats all of 
 the info!
